@@ -1,5 +1,4 @@
-This project is my attempt to understand how China’s economy and society have changed in the past decade using real data and basic programming. As an undergraduate student majoring in economics, I often felt that textbook models could only explain so much. I wanted to move beyond theoretical cases and see what the numbers actually say about China’s growth, income, consumption, and education. Preparing for my application to the MSc in Applied Research in Economics and Business at UAB gave me the motivation to collect, clean, and analyze official datasets from the National Bureau of Statistics of China, and to document what I found.
-
+This project is my attempt to understand how China’s economy and society have changed in the past decade using real data and basic programming. As an undergraduate student majoring in economics, I often felt that textbook models could only explain so much. I wanted to move beyond theoretical cases and see what the numbers actually say about China’s growth, income, consumption, and education.
 The datasets are organized into four CSV files: annual macroeconomic indicators (GDP, GNI, and industry value added), per capita income (mean, median, wage, business, property, transfers), per capita consumption expenditure (by category: services, food, housing, health, education, etc.), and education statistics (average number of students per 100,000 population by school stage). I used Python with pandas and matplotlib for all data processing and visualization.
 
 Several trends stood out in the analysis. Despite some impact from the COVID-19 pandemic, both GDP and GNI have grown steadily over the past ten years. Per capita disposable income—both mean and median—has increased every year, and the gap between them is gradually shrinking, which may point to improvements in income distribution. Consumption patterns show a clear shift: services, health, education, and cultural spending are growing faster than traditional categories like food or clothing. At the same time, enrollment numbers at all educational levels have continued to rise, suggesting a sustained improvement in access to education and the overall quality of human capital.
@@ -12,5 +11,6 @@ python analysis.py
 
 
 For any questions or feedback, please feel free to contact me at kun938875@gmail.com.
+
 
 
